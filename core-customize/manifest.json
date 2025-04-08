@@ -201,6 +201,10 @@
             ],
             "webapps": [
                 {
+                    "name":"cloudscimwebservices",
+                    "contextPath":"/scim"
+                 },
+                {
                     "name": "hac",
                     "contextPath": "/hac"
                 },
