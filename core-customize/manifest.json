@@ -2,6 +2,7 @@
     "commerceSuiteVersion": "2211.33",
     "enableImageProcessingService": true,
     "extensions": [
+        "cloudscimwebservices",
         "cloudmediaconversion",
         "mediaconversionbackoffice"
     ],
